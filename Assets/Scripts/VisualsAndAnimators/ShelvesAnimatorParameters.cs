@@ -1,0 +1,1 @@
+﻿    public enum ShelvesAnimatorParameters { enter,midRotate,performance,back};

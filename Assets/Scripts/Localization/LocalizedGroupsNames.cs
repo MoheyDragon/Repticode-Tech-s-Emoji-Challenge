@@ -1,0 +1,1 @@
+﻿public enum LocalizedGroupsNames { upperDialouge, tutorialWebSimulator, middleBottomText, userTestBottomGuideText, userTestMiddleGuideText ,tutorialBottom, userTestControlPanel};

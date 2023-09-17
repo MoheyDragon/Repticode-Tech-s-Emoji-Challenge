@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de52b782fedd094fb0d693f1f0ec7d4, type: 3}
+  m_Name: task2
+  m_EditorClassIdentifier: 
+  code: 1f600
+  sizeInCode: 200
+  emojiFaceParts:
+  - {fileID: 21300000, guid: d11c6b8a3ac91494887e815fd9daf684, type: 3}
+  - {fileID: 21300000, guid: d11c6b8a3ac91494887e815fd9daf684, type: 3}
+  - {fileID: 21300000, guid: 562f7789eafb95741959932dd1007ecc, type: 3}
+  emoji: {fileID: 2800000, guid: e92fe3c4b2ce8a34683bfb7091d52316, type: 3}
+  color: {r: 0.9921569, g: 0.86274517, b: 0.24705884, a: 1}
+  size: {x: 1.6, y: 1.6, z: 1.6}
+  taskDescription:
+    size:
+    - medium
+    - "\u0645\u062A\u0648\u0633\u0637"
+    color:
+    - yellow
+    - "\u0623\u0635\u0641\u0631"
+    facialExpression:
+    - smiling face
+    - "\u0645\u0628\u062A\u0633\u0645"
